@@ -55,5 +55,5 @@
 			}
 		]]>
 	</fx:Script>
-	<s:VideoDisplay id="sprct" x="57" y = "20" width="500" height="300" />
+	<s:VideoDisplay id="sprct" x="57" y = "20" width="500" height="300" volume="1" muted="false" />
 </s:View>
